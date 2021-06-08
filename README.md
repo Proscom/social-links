@@ -1,3 +1,9 @@
+This repository is a fork of [Social Links](https://github.com/gkucmierz/social-links) which adds vk and telegram profiles.
+
+Description below is an original README.md.
+
+---
+
 
 ![minified size](https://badgen.net/bundlephobia/min/social-links) ![minified zipped size](https://badgen.net/bundlephobia/minzip/social-links) ![types](https://badgen.net/npm/types/social-links) ![license](https://badgen.net/npm/license/social-links)
 

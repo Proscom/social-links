@@ -1,5 +1,5 @@
 {
-  "name": "social-links",
+  "name": "@proscom/social-links",
   "version": "1.4.3",
   "description": "Validate & sanitize social links",
   "main": "lib/main.js",
